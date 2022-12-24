@@ -5,3 +5,25 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/kraltv/kraltv_720p.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="KRAL POP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/9/9f/20121011091127%21Kral_Pop_logosu.png" group-title="MÜZİK",KRAL POP TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="NUMBER TÜRK TV" tvg-logo="https://www.derszamani.net//HLIC/5f6e79c2f930ece9e5cda34ff8377aab.png" group-title="MÜZİK",NUMBER TÜRK TV
+https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="NUMBER1 TV" tvg-logo="http://3.bp.blogspot.com/-ysHbO_sHLYM/UWGq4jHrZeI/AAAAAAAAAKA/EAlNEeGv5vw/s1600/nr1.png" group-title="MÜZİK",NUMBER1 TV
+https://mn-nl.mncdn.com/blutv_nr12/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWER POP SLOW" tvg-logo="https://www.dinle.tv/uploads/post/25013power-pop.png" group-title="MÜZİK",POWER POP SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWERTÜRK EN İYİLER" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_615.png?v=5" group-title="MÜZİK",POWERTÜRK EN İYİLER
+http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWERTÜRK TAPTAZE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_43.png?v=4" group-title="MÜZİK",POWERTÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWERTÜRK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="MÜZİK",POWERTÜRK TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWER DANCE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_40.png?v=4" group-title="MÜZİK",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWERTÜRK AKUSTİK" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_42.png?v=4" group-title="MÜZİK",POWERTÜRK AKUSTİK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWER LOVE" tvg-logo="https://cdn.powergroup.com.tr/image/500x500/powerapp/channels/v3/logo_36.png?v=10" group-title="MÜZİK",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="POWER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="MÜZİK",POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TATLISES TV" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="MÜZİK",TATLISES TV
+https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
