@@ -27,3 +27,119 @@ http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TATLISES TV" tvg-logo="https://i.ibb.co/cQfPfgR/tatlises.png" group-title="MÜZİK",TATLISES TV
 https://waw3.artiyerelmedya.net/tatlisestv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRM | DAMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | DAMAR TV
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70017
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe POP
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70044
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe SLOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe SLOW
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70045
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RAP
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70046
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe YABANCI POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe YABANCI POP
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70047
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK ARABESK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK ARABESK
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71708
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK TURKPOP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK TURKPOP
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71709
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK SANAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK SANAT
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71710
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK SLOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK SLOW
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71711
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK TURKU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK TURKU
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71712
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK ALATURKA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK ALATURKA
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71713
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK RAP
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71714
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK 45LIKLER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK 45LIKLER
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71715
+#EXTINF:-1 tvg-id="" tvg-name="TRM | PROTURK MEYHANE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | PROTURK MEYHANE
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71716
+#EXTINF:-1 tvg-id="" tvg-name="TRM | BEST OF TURK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | BEST OF TURK
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70020
+#EXTINF:-1 tvg-id="" tvg-name="TRM | AKUSTİK MUZİK 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | AKUSTİK MUZİK 1
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70014
+#EXTINF:-1 tvg-id="" tvg-name="TRM | AKUSTİK MUZİK 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | AKUSTİK MUZİK 2
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70015
+#EXTINF:-1 tvg-id="" tvg-name="TRM | ANKARA HAVALARİ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | ANKARA HAVALARİ
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70016
+#EXTINF:-1 tvg-id="" tvg-name="TRM | ELAPRO MUSİC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | ELAPRO MUSİC
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70018
+#EXTINF:-1 tvg-id="" tvg-name="TRM | ELECTRONİC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | ELECTRONİC
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70019
+#EXTINF:-1 tvg-id="" tvg-name="TRM | SLOW YABANCİ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | SLOW YABANCİ
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70021
+#EXTINF:-1 tvg-id="" tvg-name="TRM | TURKULER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | TURKULER
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70022
+#EXTINF:-1 tvg-id="" tvg-name="TRM | ZEKIMUREN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | ZEKIMUREN
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/64131
+#EXTINF:-1 tvg-id="" tvg-name="TRM | SEZEN AKSU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | SEZEN AKSU
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71706
+#EXTINF:-1 tvg-id="" tvg-name="TRM | YILDIZ TİLBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | YILDIZ TİLBE
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71390
+#EXTINF:-1 tvg-id="" tvg-name="TRM | EBRU GUNDES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | EBRU GUNDES
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71391
+#EXTINF:-1 tvg-id="" tvg-name="TRM | BULENT ERSOY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | BULENT ERSOY
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/64132
+#EXTINF:-1 tvg-id="" tvg-name="TRM | MUSLUM GURSES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | MUSLUM GURSES
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70023
+#EXTINF:-1 tvg-id="" tvg-name="TRM | KONSERLER 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | KONSERLER 1
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71347
+#EXTINF:-1 tvg-id="" tvg-name="TRM | KONSERLER 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | KONSERLER 2
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71348
+#EXTINF:-1 tvg-id="" tvg-name="TRM | KONSERLER 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | KONSERLER 3
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71349
+#EXTINF:-1 tvg-id="" tvg-name="TRM | KONSERLER 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | KONSERLER 4
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71350
+#EXTINF:-1 tvg-id="" tvg-name="TRM | KONSERLER 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | KONSERLER 5
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71351
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe CAFE 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe CAFE 1
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71352
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe CAFE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe CAFE 2
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71353
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe CAFE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe CAFE 3
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71354
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe CAFE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe CAFE 4
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/71355
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 1
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70048
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 2
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70049
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 3
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70050
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 4
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70051
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 5
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70052
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 6
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70053
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 7
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70054
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 8
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70055
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 9
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70056
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 10
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70057
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 11
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70058
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 12
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70059
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 13
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70060
+#EXTINF:-1 tvg-id="" tvg-name="TRM | GoogLe RELAX 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TRM | GoogLe RELAX 14
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/70061
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL EN IYILER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL EN IYILER HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/91998
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL HIT SARKILAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL HIT SARKILAR HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/91999
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL TÜRKCE POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL TÜRKCE POP HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/92000
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL ARABESK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL ARABESK HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/92001
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL TÜRKCE RAP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL TÜRKCE RAP HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/92002
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL TÜRK HALK MÜZIKLERI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL TÜRK HALK MÜZIKLERI HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/92003
+#EXTINF:-1 tvg-id="" tvg-name="TR | MÜZiKHOL ÖZGÜN SARKILAR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Huawei_Music.png" group-title="TR | MUZIK",TR | MÜZiKHOL ÖZGÜN SARKILAR HD
+http://135.181.134.183:50750/krmmseApNkAeucdrdgsd/krrLsxFsBhSM8Nfhsldf/92004
